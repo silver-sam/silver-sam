@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuel miheso</h1>
-<h3 align="center">A passionate full-stack developer from Kenya</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 - 🌱 I’m currently learning **machine learning together with docker containerization**
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **sam01candor@gmail.com**
+
+
 <p align="left">
 </p>
 
